@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: bef7a212-51cf-b65f-87b2-5af1214ac5fb
 resourcetype: Document
 title: "21M. 670 \u2013 Traditions in American Concert Dance: Gender and Autobiography"
 uid: 4576e550-c641-026d-e182-5aa83386cd10

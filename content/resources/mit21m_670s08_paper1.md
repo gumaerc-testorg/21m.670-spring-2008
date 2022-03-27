@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: bef7a212-51cf-b65f-87b2-5af1214ac5fb
 resourcetype: Document
 title: 'Paper # 1: Due Tuesday, February 26, at the BEGINNING of class'
 uid: 7b9d64d8-6f31-28ef-b971-e62b5b1d4cb9

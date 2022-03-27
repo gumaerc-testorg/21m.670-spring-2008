@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 3eb78c91-a2a3-fa4d-2691-b848f4d4753d
 resourcetype: Document
 title: Some ways to consider movement/movement quality
 uid: f371366f-9108-9e51-8876-5336337c2b7e

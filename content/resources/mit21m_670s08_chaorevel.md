@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: bef7a212-51cf-b65f-87b2-5af1214ac5fb
 resourcetype: Document
 title: "Religion and Social Order in Alvin Ailey\u2019s Revelations"
 uid: 7eefe92b-e7e4-0c1f-6217-bdc5110d4d38

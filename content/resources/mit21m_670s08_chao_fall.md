@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: bef7a212-51cf-b65f-87b2-5af1214ac5fb
 resourcetype: Document
 title: 'Fall River Legend:  Conveying Cultural Mores and Cultural Identity'
 uid: 07421617-b62f-40cc-c86a-a7a810be1b22

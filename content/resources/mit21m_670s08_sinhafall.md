@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: bef7a212-51cf-b65f-87b2-5af1214ac5fb
 resourcetype: Document
 title: "Paper # 2 Due March 20 \u2013 How does the dance \u201CFall River Legend\u201D\
   \ (DeMille, 1950) convey concepts of Cultural Mores and Cultural"
