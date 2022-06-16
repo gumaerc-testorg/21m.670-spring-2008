@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This readings section provides information on the course texts, additional
+  readings, and viewings for the course.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -7,7 +9,7 @@ title: Readings
 uid: 3eb78c91-a2a3-fa4d-2691-b848f4d4753d
 ---
 
-Some Ways to Consider Movement ([PDF]({{< baseurl >}}/resources/mit21m_670s08_movement))
+Some Ways to Consider Movement ({{% resource_link f371366f-9108-9e51-8876-5336337c2b7e "PDF" %}})
 
 Texts
 -----
@@ -19,7 +21,7 @@ Needham, Maureen. _I See America Dancing: Selected Readings, 1685-2000_. Urbana,
 Additional Readings
 -------------------
 
-Please see the [Calendar]({{< baseurl >}}/pages/calendar) page for a schedule of readings.
+Please see the {{% resource_link be2ce945-23a6-e17d-7b51-249ac4a9ee8a "Calendar" %}} page for a schedule of readings.
 
 Brown, Carol. "Re-tracing Our Steps: The Possibilities for Feminist Dance Histories." In _Dance History: An Introduction_. Edited by Janet Adshead-Lansdale and June Layson. New York, NY: Routledge, 1994, pp. 198-216. ISBN: 9780415090308.
 
