@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This syllabus section provides the general course description and information
+  on course meeting times, readings and materials, required performances, class requirements,
+  course organization, and a note from the writing center.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 99ec5673-d699-ac29-49ca-0b66ca7b78c6
 ---
