@@ -5,6 +5,7 @@ file: /courses/21m-670-traditions-in-american-concert-dance-gender-and-autobiogr
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: "Paper # 2 Due March 20 \u2013 How does the dance \u201CFall River Legend
 uid: 3c2be433-ff75-615b-2b5f-e92cb96407e5
 ---
 This file contains information regarding Paper # 2 Due March 20.
-

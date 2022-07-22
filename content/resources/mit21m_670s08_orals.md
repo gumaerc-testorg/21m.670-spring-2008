@@ -5,6 +5,7 @@ file: /courses/21m-670-traditions-in-american-concert-dance-gender-and-autobiogr
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: BALANCHINE BALLET ORAL PRESENTATION
 uid: 3c87103a-01a7-86a4-0420-8f150712fa9c
 ---
 This file contains information regarding ballet oral presentation.
-

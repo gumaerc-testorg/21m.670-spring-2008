@@ -5,6 +5,7 @@ file: /courses/21m-670-traditions-in-american-concert-dance-gender-and-autobiogr
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: FINAL PAPER
 uid: 74a6ce2e-c415-1497-7f2c-1966ec2fccfb
 ---
 This file contains information regarding final paper.
-

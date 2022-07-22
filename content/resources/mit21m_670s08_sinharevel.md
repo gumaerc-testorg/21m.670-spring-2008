@@ -6,6 +6,7 @@ file: /courses/21m-670-traditions-in-american-concert-dance-gender-and-autobiogr
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: "21M. 670 \u2013 Traditions in American Concert Dance: Gender and Autobio
 uid: 4576e550-c641-026d-e182-5aa83386cd10
 ---
 This file contains information regarding Traditions in American Concert Dance: Gender and Autobiography.
-
