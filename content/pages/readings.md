@@ -56,7 +56,7 @@ Viewings
 
 The following citations are for recordings and editions that may not be identical to those shown in this course, but may be more available. Alternate sources, such as YouTube, may be useful as well.
 
-"[Dancing](http://www.imdb.com/title/tt0296329/)." Directed by Orlando Bagwell and Geoff Dunlop. Produced by Susan Bellows. Washington, DC: PBS, 1993.
+"{{% resource_link "2e89c0d4-7735-4954-a116-fa8a4fa7c12d" "Dancing" %}}." Directed by Orlando Bagwell and Geoff Dunlop. Produced by Susan Bellows. Washington, DC: PBS, 1993.
 
 Ailey, Alvin. "Revelations." Performed by Alvin Ailey, James Truitte, Minnie Marshall, Thelma Hill, and the Alvin Ailey Dance Theater. In _Lamp Unto My Feet_. Directed by Martin Carr. Produced by Pamela Ilott. New York, NY: WCBS-TV. March 4, 1962.
 
@@ -82,4 +82,4 @@ Balanchine, George. "Agon." Performed by the New York City Ballet. In _Balanchin
 
 _Dance Black America_. Directed by Chris Hegedus, D. A. Pennebaker, and David Dawkins. Pennington, NJ: Dance Horizons Video, 1990.
 
-Zollar, Jawole Willa Jo. "[Batty Moves](https://www.mitpressjournals.org/doi/pdf/10.1162/DRAM_a_00048)." Performed by Urban Bush Women. UBW, 1995.
+Zollar, Jawole Willa Jo. "{{% resource_link "a9adbafd-609f-4667-8d93-e3f5404a1743" "Batty Moves" %}}." Performed by Urban Bush Women. UBW, 1995.
