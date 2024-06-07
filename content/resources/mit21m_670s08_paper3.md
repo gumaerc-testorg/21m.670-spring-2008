@@ -2,6 +2,7 @@
 content_type: resource
 description: This file contains information regarding final paper.
 file: /courses/21m-670-traditions-in-american-concert-dance-gender-and-autobiography-spring-2008/74a6ce2ec41514977f2c1966ec2fccfb_MIT21M_670S08_paper3.pdf
+file_size: 163461
 file_type: application/pdf
 learning_resource_types:
 - Assignments
