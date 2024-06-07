@@ -3,6 +3,7 @@ content_type: resource
 description: This file contains information regarding Traditions in American Concert
   Dance and Gender Autobiography
 file: /courses/21m-670-traditions-in-american-concert-dance-gender-and-autobiography-spring-2008/d729063d4bc88216c03e88f420e637f6_MIT21M_670S08_sinhafinal.pdf
+file_size: 178850
 file_type: application/pdf
 learning_resource_types:
 - Assignments

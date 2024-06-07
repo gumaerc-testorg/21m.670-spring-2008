@@ -2,6 +2,7 @@
 content_type: resource
 description: This file contains information regarding ballet oral presentation.
 file: /courses/21m-670-traditions-in-american-concert-dance-gender-and-autobiography-spring-2008/3c87103a01a786a404208f150712fa9c_MIT21M_670S08_orals.pdf
+file_size: 118581
 file_type: application/pdf
 learning_resource_types:
 - Assignments

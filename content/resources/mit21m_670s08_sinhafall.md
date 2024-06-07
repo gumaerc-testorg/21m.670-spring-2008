@@ -2,6 +2,7 @@
 content_type: resource
 description: 'This file contains information regarding Paper # 2 Due March 20.'
 file: /courses/21m-670-traditions-in-american-concert-dance-gender-and-autobiography-spring-2008/3c2be433ff75615b2b5fe92cb96407e5_MIT21M_670S08_sinhafall.pdf
+file_size: 184508
 file_type: application/pdf
 learning_resource_types:
 - Assignments
