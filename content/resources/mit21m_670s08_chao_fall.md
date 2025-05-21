@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This file contains information regarding Fall River Legend:  Conveying
   Cultural Mores'
-file: /ol-ocw-studio-app/courses/21m-670-traditions-in-american-concert-dance-gender-and-autobiography-spring-2008/07421617b62f40ccc86aa7a810be1b22_MIT21M_670S08_chao_fall.pdf
+file: /courses/21m-670-traditions-in-american-concert-dance-gender-and-autobiography-spring-2008/07421617b62f40ccc86aa7a810be1b22_MIT21M_670S08_chao_fall.pdf
 file_size: 596646
 file_type: application/pdf
 learning_resource_types:

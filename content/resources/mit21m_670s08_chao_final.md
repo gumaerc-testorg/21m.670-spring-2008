@@ -2,7 +2,7 @@
 content_type: resource
 description: This file contains information regarding Gender and Individuality in
   the 'Gold Section' of Twyla Tharp's The Catherine Wheel.
-file: /ol-ocw-studio-app/courses/21m-670-traditions-in-american-concert-dance-gender-and-autobiography-spring-2008/d2117319149e628b022e6218d1912e99_MIT21M_670S08_chao_final.pdf
+file: /courses/21m-670-traditions-in-american-concert-dance-gender-and-autobiography-spring-2008/d2117319149e628b022e6218d1912e99_MIT21M_670S08_chao_final.pdf
 file_size: 134980
 file_type: application/pdf
 learning_resource_types:
