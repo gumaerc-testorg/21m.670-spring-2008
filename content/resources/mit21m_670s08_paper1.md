@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains information regarding paper 1.
-file: /ol-ocw-studio-app/courses/21m-670-traditions-in-american-concert-dance-gender-and-autobiography-spring-2008/7b9d64d86f3128efb971e62b5b1d4cb9_MIT21M_670S08_paper1.pdf
+file: /courses/21m-670-traditions-in-american-concert-dance-gender-and-autobiography-spring-2008/7b9d64d86f3128efb971e62b5b1d4cb9_MIT21M_670S08_paper1.pdf
 file_size: 135903
 file_type: application/pdf
 learning_resource_types:
